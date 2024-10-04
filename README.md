@@ -5,6 +5,9 @@ Language translation encoder and decoder using Transformers
 "**Attention Is All You Need**"
 https://arxiv.org/abs/1706.03762
 
+# Architecture :
+![alt text](images/attribute_description.jpg)
+
 # Main components
 1. [**Positional Embedding**](/Transformer/com/iqvia/Positional_Embedding.py)
 2. [**Embedding Layer**](/Transformer/com/iqvia/Embeddings.py)
